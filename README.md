@@ -1,5 +1,5 @@
 ## About Me
-- 14.
+- 14\.
 - self taught full-stack developer.
 - Currently in High School.
 - Name stolen from an anime character.
