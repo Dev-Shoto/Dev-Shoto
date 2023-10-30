@@ -1,6 +1,6 @@
 ## About Me
 - 14\.
-- self taught full-stack developer.
+- Self taught full-stack developer.
 - Currently in High School.
 - Name stolen from an anime character.
 - https://shotodev.carrd.co (Portfolio).
