@@ -7,7 +7,7 @@
 - @shotodev on discord.
 - [My Business Mail](mailto:shotobusinessmail@gmail.com).
 
-<img src="https://vbr.wocr.tk/badge?page_id=DxxxxY&color=000&text=Visitors&style=for-the-badge&logo=GitBook&logoColor=white&left_color=black&right_color=purple" alt="You shouldn't be seeing this. Visitor Badge failed to load.">
+<img src="https://vbr.wocr.tk/badge?page_id=Dev-Shoto&color=000&text=Visitors&style=for-the-badge&logo=GitBook&logoColor=white&left_color=black&right_color=purple" alt="You shouldn't be seeing this. Visitor Badge failed to load.">
 
 ## Languages
 ![](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=oracle&logoColor=black)
